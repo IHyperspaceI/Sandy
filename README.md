@@ -1,6 +1,6 @@
 ATTiny works but needs redesign as ground pours are not connected.
 ![](Photos/Schematic.png)
-
-![](Photos/Top\ Layer.png)
-
-![](Photos/Bottom\ Layer.png)
+Top Layer:
+![](Photos/Top%20Layer.png)
+Bottom Layer
+![](Photos/Bottom%20Layer.png)
