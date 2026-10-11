@@ -1,4 +1,4 @@
-ATTiny works but needs redesign as ground pours are not connected.
+ATTiny works but needs redesign as ground pours are not connected. Hence, the IMU does not get power. The focus on small packaging led to certain compromises in layout, ultimately bringing the project's downfall.
 ![](Photos/Schematic.png)
 
 Top Layer:
